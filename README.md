@@ -2,6 +2,7 @@ This is a project for my YouTube channel where I build every week a new feature 
 
 ## Progression
 
-- Part 1 (current branch): Implenting wallet connection and Cookie session
+- Part 1 (current step): Implenting wallet connection and Cookie session
 - Part 2: Watching changes in wallet and network
 - Part 3: Implementing SIWE (Sign in with Ethereum)
+
